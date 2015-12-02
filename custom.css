@@ -1,0 +1,10 @@
+.reveal .slides {
+  font-size: 0.7em; 
+}
+
+img[alt="Film reels in a salt mine"] { 
+    height:  20pc; 
+    margin: 0 auto; /* to centre the image */
+}
+
+p { text-align: left; }

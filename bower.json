@@ -1,0 +1,26 @@
+{
+  "name": "RDMPresentationApr2014",
+  "version": "1.0.0",
+  "main": [
+    "index.html"
+  ],
+  "homepage": "https://github.com/willfurnass/RDMPresentationApr2014",
+  "license": "CC-0",
+  "description": "Presentation on Research Data Management to the Pennine Water Group, University of Sheffield in Apr 2014",
+  "authors": [
+    "Will Furnass <will@thearete.co.uk>"
+  ],
+  "dependencies": {
+    "reveal.js": "~3.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/willfurnass/RDMPresentationApr2014.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ]
+}
