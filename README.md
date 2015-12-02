@@ -1,4 +1,4 @@
-# Testing research code: making sure your code does what you want before pressing the big green butto
+# Testing research code: making sure your code does what you want before pressing the big green button
 
 Presentation on software testing given to the [Pennine Water Group](https://www.sheffield.ac.uk/penninewatergroup), University of Sheffield, on 2014-12-03.
 
