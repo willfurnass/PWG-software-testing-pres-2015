@@ -1,21 +1,21 @@
 {
-  "name": "RDMPresentationApr2014",
+  "name": "PWG-software-testing-pres-2015",
   "version": "1.0.0",
   "main": [
     "index.html"
   ],
-  "homepage": "https://github.com/willfurnass/RDMPresentationApr2014",
+  "homepage": "https://github.com/willfurnass/PWG-software-testing-pres-2015",
   "license": "CC-0",
-  "description": "Presentation on Research Data Management to the Pennine Water Group, University of Sheffield in Apr 2014",
+  "description": "Presentation on software testing given to the [Pennine Water Group](https://www.sheffield.ac.uk/penninewatergroup), University of Sheffield, on 2015-12-03.",
   "authors": [
     "Will Furnass <will@thearete.co.uk>"
   ],
   "dependencies": {
-    "reveal.js": "~3.1.0"
+    "reveal.js": "~3.2.0"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/willfurnass/RDMPresentationApr2014.git"
+    "url": "git://github.com/willfurnass/PWG-software-testing-pres-2015.git"
   },
   "ignore": [
     "**/.*",
