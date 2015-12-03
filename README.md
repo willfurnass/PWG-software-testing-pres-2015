@@ -2,6 +2,8 @@
 
 Presentation on software testing given to the [Pennine Water Group](https://www.sheffield.ac.uk/penninewatergroup), University of Sheffield, on 2015-12-03.
 
+A rendered (HTML) version of this presentation can be found [here](http://willfurnass.github.io/PWG-software-testing-pres-2015).
+
 The presentation's slides can be found in the `gh-pages` branch of this repository.  The content is written in [Markdown](https://daringfireball.net/projects/markdown/), which is interpretted by [Reveal.js](https://github.com/hakimel/reveal.js) to create an interactive HTML slideshow.  
 
 If you want to view/present the slides whilst offline, you can display the slides in `index.html` using a simple webserver such as that which comes with Python:
