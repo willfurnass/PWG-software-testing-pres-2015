@@ -297,7 +297,7 @@ y = rand(1,5)
 ## Resources
 
 - The [Software Sustainability Institute][ssi], who support the UK's *research software community*, have a [short guide][ssi-testing] to software testing principles, benefits and tools.
-- The documentation for [py.test][pytest] (Python), [testthat][testthat] (R) and the [MATLAB unit test framework][matlab-unit-test] should provide enough info to get going.  
+- The documentation for [py.test][pytest] (Python), [testhat][testhat] (R) and the [MATLAB unit test framework][matlab-unit-test] should provide enough info to get going.  
     - NB there are testing frameworks for pretty much every language under the sun!
 - This presentation can be found at 
     - [http://willfurnass.github.io/PWG-software-testing-pres-2015][this]
